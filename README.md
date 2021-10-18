@@ -1,13 +1,3 @@
-
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
-
-
 # PyBer_Analysis
 
 ## Project Overview 📋
@@ -33,7 +23,8 @@ the result of merging two data sets, city_data.csv and ride_data.csv.
 
 ### The following graph shows a comparison of the total rates by city type during the period between January 1st and April 24th, 2019:
 
-<img width="733" alt="1" src="https://user-images.githubusercontent.com/78093457/137653043-ceb02293-fac6-45ab-8c43-2644d17146de.png">
+<img width="575" alt="1enea28abr2019" src="https://user-images.githubusercontent.com/78093457/137653635-b0522771-6476-43bf-9346-d83c73df103b.png">
+
 
 * The seasonality behavior over the period is very similar between the 3 types of city.
 
